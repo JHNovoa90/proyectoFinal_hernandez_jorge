@@ -1,4 +1,4 @@
-const serverUrl = 'http://127.0.0.1:5500/';
+const serverUrl = 'https://jhnovoa90.github.io/proyectoFinal_hernandez_jorge/';
 const itemsPath = 'items.json';
 const imagesPath = 'img/';
 
